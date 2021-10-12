@@ -1,4 +1,4 @@
-# Leaf-blight-detection-using-Tensorflow
+# Leaf-blight-detection-using-Raspberry-Pi
 
 In this project, the CNN has been implemented using Tensorflow. <br>
 The code is available in the .ipynb file here.<br>
