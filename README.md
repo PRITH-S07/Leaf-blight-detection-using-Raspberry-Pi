@@ -12,3 +12,5 @@ Some reference links:<br>
 1. https://howchoo.com/pi/how-to-take-a-picture-with-your-raspberry-pi <br>
 2. http://ijasret.com/VolumeArticles/FullTextPDF/343_5.PLANT_LEAF_DISEASE_DETECTION_USING_CNN_AND_RASPBERRY_Pi.pdf <br>
 3. https://www.citlprojects.com/python-projects/iot-ml-ai-deep-learning <br>
+The best model available right now has a 95.16% training accuracy and a 93.03% validation accuracy.<br>
+This model has been made available here and the updated code is available in the Google colab link.
